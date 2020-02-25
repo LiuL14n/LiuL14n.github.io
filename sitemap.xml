@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2020/02/25/get-started-3dsctf-2016/</loc>
+    
+    <lastmod>2020-02-25T15:17:38.403Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2020/02/21/Unsorted-bin-attack-lab14-magic-heap/</loc>
     
     <lastmod>2020-02-21T13:21:45.622Z</lastmod>
@@ -205,14 +212,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/05/16/WhaleCTF-crackme-ais3/</loc>
+    <loc>http://yoursite.com/2019/05/17/WhaleCTF-rev2/</loc>
     
     <lastmod>2019-08-08T07:59:04.527Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/05/17/WhaleCTF-rev2/</loc>
+    <loc>http://yoursite.com/2019/05/16/WhaleCTF-crackme-ais3/</loc>
     
     <lastmod>2019-08-08T07:59:04.527Z</lastmod>
     
