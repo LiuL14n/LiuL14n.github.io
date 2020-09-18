@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/2020/09/18/xman-2019-format-%E5%A0%86%E4%B8%8A%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc>
+    <lastmod>2020-09-18</lastmod>
+  </url>  <url>
+    <loc>http://yoursite.com/2020/03/16/Hackme-inndy-echo-echo2-echo3/</loc>
+    <lastmod>2020-09-18</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2020/07/11/%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84QQ%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    <lastmod>2020-07-15</lastmod>
+    <lastmod>2020-08-31</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/12/18/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%A4%8D%E4%B9%A0/</loc>
     <lastmod>2020-07-11</lastmod>
@@ -32,9 +38,6 @@
     <lastmod>2020-03-29</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2020/03/11/Hackme-inndy-onepunch/</loc>
-    <lastmod>2020-03-28</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2020/03/16/Hackme-inndy-echo-echo2-echo3/</loc>
     <lastmod>2020-03-28</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2020/03/14/%E6%A0%88%E8%BF%81%E7%A7%BB-ACTF-2019-babystack/</loc>
