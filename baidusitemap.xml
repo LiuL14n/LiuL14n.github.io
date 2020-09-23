@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/2020/09/23/mrctf2020-shellcode-revenge/</loc>
+    <lastmod>2020-09-23</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2020/09/18/xman-2019-format-%E5%A0%86%E4%B8%8A%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc>
     <lastmod>2020-09-18</lastmod>
   </url>  <url>
@@ -133,10 +136,10 @@
     <loc>http://yoursite.com/2019/05/12/%E5%AE%9E%E9%AA%8C%E5%90%A7-Ascii%E8%89%BA%E6%9C%AF/</loc>
     <lastmod>2019-08-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/05/17/WhaleCTF-rev2/</loc>
+    <loc>http://yoursite.com/2019/05/16/WhaleCTF-crackme-ais3/</loc>
     <lastmod>2019-08-08</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/05/16/WhaleCTF-crackme-ais3/</loc>
+    <loc>http://yoursite.com/2019/05/17/WhaleCTF-rev2/</loc>
     <lastmod>2019-08-08</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2019/05/21/JCTF-%E9%80%86%E5%90%91/</loc>
